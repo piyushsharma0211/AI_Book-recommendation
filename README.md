@@ -67,8 +67,8 @@ book-recommendation45-master/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-recommendation45.git
-cd book-recommendation45-master
+git clone https://github.com/piyushsharma0211/AI_Book-recommendation.git
+cd AI_Book-recommendation-master
 ```
 
 ### 2. Install Dependencies
@@ -124,3 +124,4 @@ Ensure:
 This project is licensed under the **MIT License**.
 
 ````
+
